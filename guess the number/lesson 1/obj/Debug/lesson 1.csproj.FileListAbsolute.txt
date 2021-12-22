@@ -1,0 +1,7 @@
+C:\Users\markp\source\repos\lesson 1\bin\Debug\lesson 1.exe.config
+C:\Users\markp\source\repos\lesson 1\bin\Debug\lesson 1.exe
+C:\Users\markp\source\repos\lesson 1\bin\Debug\lesson 1.pdb
+C:\Users\markp\source\repos\lesson 1\obj\Debug\lesson 1.csproj.AssemblyReference.cache
+C:\Users\markp\source\repos\lesson 1\obj\Debug\lesson 1.csproj.CoreCompileInputs.cache
+C:\Users\markp\source\repos\lesson 1\obj\Debug\lesson 1.exe
+C:\Users\markp\source\repos\lesson 1\obj\Debug\lesson 1.pdb
